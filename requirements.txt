@@ -1,0 +1,5 @@
+django>=4.0.0<4.0.1
+djangorestframework
+django-filter
+requests
+pillow
